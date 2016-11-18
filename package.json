@@ -2,7 +2,7 @@
   "name": "react-router-match-as-promised",
   "version": "1.0.3",
   "description": "ReactRouter's `.match()` as promised",
-  "main": "index.js",
+  "main": "lib/index.js",
   "devDependencies": {
     "ava": "^0.17.0",
     "babel-cli": "^6.18.0",
