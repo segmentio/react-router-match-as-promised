@@ -1,6 +1,6 @@
 {
   "name": "react-router-match-as-promised",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ReactRouter's `.match()` as promised",
   "main": "lib/index.js",
   "devDependencies": {
