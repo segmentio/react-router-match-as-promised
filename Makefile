@@ -12,4 +12,8 @@ lib: $(SRC) node_modules
 clean:
 	rm -rf lib
 
+node_modules: package.json
+	npm install
+	touch $@
+
 .PHONY: test lint clean
